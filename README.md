@@ -37,7 +37,7 @@ The project includes several Python scripts that perform different types of anal
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/toto-analysis.git
+git clone https://github.com/maliangone/toto-analysis.git
 cd toto-analysis
 ```
 
